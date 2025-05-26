@@ -1,2 +1,2 @@
 # Sistema-de-Gestao-
-Sistema simples para gestao de um bar
+Sistema simples para gestao de um bar pequeno
